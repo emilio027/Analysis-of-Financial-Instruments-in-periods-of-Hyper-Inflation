@@ -4,30 +4,27 @@
 
 ## Summary
 
-The aim of this project is to continue the study of the best financial instruments during the current market conditions. In periods of hyperinflation and unresonable monetary policy it is essential to diversify your portfolio in assets that are "inflation-proof" and are not severly impacted by a non-functioning supply chain.
+This project aims to continue the study of the best financial instruments during the current market conditions. In periods of hyperinflation and unreasonable monetary policy, it is essential to diversify your portfolio into " inflation-proof " assets that are not severely impacted by a non-functioning supply chain.
 
-We define periods of hyperinflation as any period of time with inflation over 5%, the preious one happeining in July 2008. According to the latest figures issued by the US Department of Labor, inflation in the United States reached a three-decade high in January '22, with prices of consumer goods and services rising by 8% year over year.
+We define periods of hyperinflation as any time with inflation over 5%, the previous one happening in July 2008. According to the latest figures issued by the US Department of Labor, inflation in the United States reached a three-decade high in January '22, with prices of consumer goods and services rising by 8% year over year.
 
 ![alt text](white_house.png "Infaltion")
 
-Supply chain problems are having a big effect on the economy right now. Across the economy and in the retail sector, inventory-to-sale ratios have hit record lows. Home builders say they don't have enough materials, and automakers don't have enough semiconductors. The fire is getting hotter because more people want to buy things. Travel demand, for example, has come back a lot faster than expected, which is straining airlines. In the same way, the number of vehicles sold in April more than doubled from last year, which is leaving dealer lots empty. Prices have gone up because of a rise in demand and a supply chain that isn't fully operational.
+Supply chain problems are having a significant effect on the economy right now. Inventory-to-sale ratios have hit record lows across the economy and in the retail sector. Homebuilders say they don't have enough materials, and automakers don't have enough semiconductors. The fire is getting hotter because more people want to buy things. Travel demand, for example, has come back a lot faster than expected, which is straining airlines. In the same way, the number of vehicles sold in April more than doubled from last year, which is leaving dealer lots empty. Prices have gone up because of a rise in demand and a supply chain that isn't fully operational.
 
 
 ## Business Problem
 
-Despite the Federal Reserve's repeated denials of requests to raise interest rates, referring to inflation fears as "transitory," the political repercussions of rising prices may eventually force the government to act. The stock market has responded gingerly to the news, with the benchmark S&P 500 index not dropping. In the current environment, investors are rushing to protect their growth-oriented portfolios against danger.
+Despite the Federal Reserve's repeated denials of requests to raise interest rates, referring to inflation fears as "transitory," the political repercussions of rising prices may eventually force the government to act. The stock market has responded gingerly to the news, with the benchmark S&P 500 index not dropping. Investors are rushing to protect their growth-oriented portfolios against danger in the current environment.
 
-We analyzed various markets:
+We analyzed various markets intending to inform the reader of possibilities for diversification of their growth portfolio:
   1. Commodities
   2. Bonds
   3. ETFs
 
-with the aim of informing the reader of possibilites for diversifaction of their growth porfolio. 
-
-
 ## Data
 
-The financial instruments analyzed and modeled using Facebook's fbprophet algorith are the following:
+The financial instruments analyzed and modeled using Facebook's Prophet algorithm are the following:
 
 Bonds:
 1. 10Y US T-Bond
@@ -46,7 +43,7 @@ Commodities:
 
 ## Results
 
-After training the model and tunning the parameters for optimal results the following are the rankings of financial instruments by asset class in accordance to their return on investment and mean absolute percentage error: 
+After training the model and tunning the parameters for optimal results, the following are the rankings of financial instruments by asset class per their return on investment and mean absolute percentage error: 
 
 Commodities:
 1. Gold - ROI: 39.2% | MAPE: 6.7%
