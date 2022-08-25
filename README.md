@@ -62,7 +62,7 @@ ETFs:
 Bonds:
 1. 10Y US T-Bond - ROI: 21.7% | MAPE: 7.1%
 2. 5Y US T-Bond - ROI: 14% | MAPE: 3.2% 
-3. 2Y US T-Bond - ROI: 5.3% | MAPE: 0.87
+3. 2Y US T-Bond - ROI: 5.3% | MAPE: 0.87%
 
 ![alt text](bonds.png "bonods")
 
